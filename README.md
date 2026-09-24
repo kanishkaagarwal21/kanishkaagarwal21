@@ -7,7 +7,7 @@ I'm a Master's student in Public Policy and Management (Data Analytics Track) at
 ---
 
 ### Background
-Before CMU, I spent 4+ years at **Pratham Education Foundation** leading measurement and evaluation for large-scale education programs across India — including a nationwide framework reaching 350,000+ students and voice-data analysis for an adaptive learning app (part of an upcoming RCT with J-PAL and Daron Acemoglu). I also advised on policy strategy at **Sattva Consulting**, working on a $97M grant portfolio for the Gates Foundation.
+Before CMU, I spent 4+ years at **Pratham Education Foundation** leading measurement and evaluation for large-scale education programs across India, including a nationwide framework reaching 350,000+ students and voice-data analysis for an adaptive, AI-based learning app (part of an upcoming RCT with J-PAL and Daron Acemoglu). I also advised on policy strategy at **Sattva Consulting**, working on a $97M grant portfolio for the Gates Foundation.
 
 ### Skills & Tools
 `Python (pandas, NumPy)` `R` `SQL` `Tableau` `Excel` `MATLAB`
